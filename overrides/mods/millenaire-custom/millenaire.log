@@ -1,0 +1,271 @@
+8.0.0 27-12-2019 11:00:23 Starting new session. Mods: examplemod 
+8.0.0 27-12-2019 11:04:07 MAJOR: null: Loading language: en_us
+8.0.0 27-12-2019 11:04:07 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1: farmbyzantine
+8.0.0 27-12-2019 11:04:07 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1: vineyardbyzantine
+8.0.0 27-12-2019 11:04:07 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue goodharvest1: tavernbyzantine
+8.0.0 27-12-2019 11:04:07 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1withtavern: farmbyzantine
+8.0.0 27-12-2019 11:04:07 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1withtavern: vineyardbyzantine
+8.0.0 27-12-2019 11:04:07 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1withtavern: tavernbyzantine
+8.0.0 27-12-2019 11:04:07 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue cider: tavernbyzantine
+8.0.0 27-12-2019 11:04:07 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue boyvillagechief: vtype:baron_byzantine-centurio_byzantine-patriarch_byzantine
+8.0.0 27-12-2019 11:04:07 ERROR: Culture: byzantines: pt_br: Trying to register two dialogues with the same key: chatter9
+8.0.0 27-12-2019 11:04:07 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue talking2: notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine
+8.0.0 27-12-2019 11:04:07 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue talking2: notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine
+8.0.0 27-12-2019 11:04:07 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue talking5: notvtype:pastor_byzantine-patriarch_byzantine-armysmith_byzantine-baron_byzantine
+8.0.0 27-12-2019 11:04:07 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious1: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 27-12-2019 11:04:07 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious2: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 27-12-2019 11:04:07 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious3: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 27-12-2019 11:04:07 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious4: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 27-12-2019 11:04:07 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue ticlon: notvtype:pastor_byzantine-patriarch_byzantine
+8.0.0 27-12-2019 11:04:07 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue nobakery: farmbyzantine
+8.0.0 27-12-2019 11:04:07 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue nobakery: bakerybyzantine
+8.0.0 27-12-2019 11:04:07 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue notavern: tavernbyzantine
+8.0.0 27-12-2019 11:04:07 ERROR: Culture: byzantines: pt_br: Trying to register two dialogues with the same key: sun
+8.0.0 27-12-2019 11:04:07 ERROR: Culture: byzantines: th: In dialogue file C:\Users\Matthew\Twitch\Minecraft\Instances\Minelure pack\mods\millenaire\languages\th\byzantines_dialogues.txt the following line is invalid: v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / It is always a pleasure to see our nice little village, isn't it?
+8.0.0 27-12-2019 11:04:07 ERROR: Culture: byzantines: th: In dialogue file C:\Users\Matthew\Twitch\Minecraft\Instances\Minelure pack\mods\millenaire\languages\th\byzantines_dialogues.txt the following line is invalid: ????????????????????????????????????????????
+8.0.0 27-12-2019 11:04:07 ERROR: Culture: byzantines: th: In dialogue file C:\Users\Matthew\Twitch\Minecraft\Instances\Minelure pack\mods\millenaire\languages\th\byzantines_dialogues.txt dialogue nothomeyet has no sentences.
+8.0.0 27-12-2019 11:04:07 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+8.0.0 27-12-2019 11:40:35 Starting new session. Mods: examplemod 
+8.0.0 27-12-2019 11:44:20 MAJOR: null: Loading language: en_us
+8.0.0 27-12-2019 11:44:21 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1: farmbyzantine
+8.0.0 27-12-2019 11:44:21 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1: vineyardbyzantine
+8.0.0 27-12-2019 11:44:21 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue goodharvest1: tavernbyzantine
+8.0.0 27-12-2019 11:44:21 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1withtavern: farmbyzantine
+8.0.0 27-12-2019 11:44:21 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1withtavern: vineyardbyzantine
+8.0.0 27-12-2019 11:44:21 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1withtavern: tavernbyzantine
+8.0.0 27-12-2019 11:44:21 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue cider: tavernbyzantine
+8.0.0 27-12-2019 11:44:21 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue boyvillagechief: vtype:baron_byzantine-centurio_byzantine-patriarch_byzantine
+8.0.0 27-12-2019 11:44:21 ERROR: Culture: byzantines: pt_br: Trying to register two dialogues with the same key: chatter9
+8.0.0 27-12-2019 11:44:21 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue talking2: notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine
+8.0.0 27-12-2019 11:44:21 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue talking2: notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine
+8.0.0 27-12-2019 11:44:21 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue talking5: notvtype:pastor_byzantine-patriarch_byzantine-armysmith_byzantine-baron_byzantine
+8.0.0 27-12-2019 11:44:21 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious1: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 27-12-2019 11:44:21 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious2: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 27-12-2019 11:44:21 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious3: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 27-12-2019 11:44:21 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious4: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 27-12-2019 11:44:21 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue ticlon: notvtype:pastor_byzantine-patriarch_byzantine
+8.0.0 27-12-2019 11:44:21 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue nobakery: farmbyzantine
+8.0.0 27-12-2019 11:44:21 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue nobakery: bakerybyzantine
+8.0.0 27-12-2019 11:44:21 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue notavern: tavernbyzantine
+8.0.0 27-12-2019 11:44:21 ERROR: Culture: byzantines: pt_br: Trying to register two dialogues with the same key: sun
+8.0.0 27-12-2019 11:44:22 ERROR: Culture: byzantines: th: In dialogue file C:\Users\Matthew\Twitch\Minecraft\Instances\Minelure pack\mods\millenaire\languages\th\byzantines_dialogues.txt the following line is invalid: v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / It is always a pleasure to see our nice little village, isn't it?
+8.0.0 27-12-2019 11:44:22 ERROR: Culture: byzantines: th: In dialogue file C:\Users\Matthew\Twitch\Minecraft\Instances\Minelure pack\mods\millenaire\languages\th\byzantines_dialogues.txt the following line is invalid: ????????????????????????????????????????????
+8.0.0 27-12-2019 11:44:22 ERROR: Culture: byzantines: th: In dialogue file C:\Users\Matthew\Twitch\Minecraft\Instances\Minelure pack\mods\millenaire\languages\th\byzantines_dialogues.txt dialogue nothomeyet has no sentences.
+8.0.0 27-12-2019 11:44:25 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+8.0.0 27-12-2019 12:04:44 Starting new session. Mods: examplemod 
+8.0.0 27-12-2019 12:08:16 MAJOR: null: Loading language: en_us
+8.0.0 27-12-2019 12:08:17 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1: farmbyzantine
+8.0.0 27-12-2019 12:08:17 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1: vineyardbyzantine
+8.0.0 27-12-2019 12:08:17 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue goodharvest1: tavernbyzantine
+8.0.0 27-12-2019 12:08:17 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1withtavern: farmbyzantine
+8.0.0 27-12-2019 12:08:17 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1withtavern: vineyardbyzantine
+8.0.0 27-12-2019 12:08:17 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1withtavern: tavernbyzantine
+8.0.0 27-12-2019 12:08:17 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue cider: tavernbyzantine
+8.0.0 27-12-2019 12:08:17 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue boyvillagechief: vtype:baron_byzantine-centurio_byzantine-patriarch_byzantine
+8.0.0 27-12-2019 12:08:17 ERROR: Culture: byzantines: pt_br: Trying to register two dialogues with the same key: chatter9
+8.0.0 27-12-2019 12:08:17 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue talking2: notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine
+8.0.0 27-12-2019 12:08:17 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue talking2: notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine
+8.0.0 27-12-2019 12:08:17 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue talking5: notvtype:pastor_byzantine-patriarch_byzantine-armysmith_byzantine-baron_byzantine
+8.0.0 27-12-2019 12:08:17 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious1: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 27-12-2019 12:08:17 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious2: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 27-12-2019 12:08:17 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious3: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 27-12-2019 12:08:17 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious4: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 27-12-2019 12:08:17 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue ticlon: notvtype:pastor_byzantine-patriarch_byzantine
+8.0.0 27-12-2019 12:08:17 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue nobakery: farmbyzantine
+8.0.0 27-12-2019 12:08:17 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue nobakery: bakerybyzantine
+8.0.0 27-12-2019 12:08:17 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue notavern: tavernbyzantine
+8.0.0 27-12-2019 12:08:17 ERROR: Culture: byzantines: pt_br: Trying to register two dialogues with the same key: sun
+8.0.0 27-12-2019 12:08:17 ERROR: Culture: byzantines: th: In dialogue file C:\Users\Matthew\Twitch\Minecraft\Instances\Minelure pack\mods\millenaire\languages\th\byzantines_dialogues.txt the following line is invalid: v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / It is always a pleasure to see our nice little village, isn't it?
+8.0.0 27-12-2019 12:08:17 ERROR: Culture: byzantines: th: In dialogue file C:\Users\Matthew\Twitch\Minecraft\Instances\Minelure pack\mods\millenaire\languages\th\byzantines_dialogues.txt the following line is invalid: ????????????????????????????????????????????
+8.0.0 27-12-2019 12:08:17 ERROR: Culture: byzantines: th: In dialogue file C:\Users\Matthew\Twitch\Minecraft\Instances\Minelure pack\mods\millenaire\languages\th\byzantines_dialogues.txt dialogue nothomeyet has no sentences.
+8.0.0 27-12-2019 12:08:17 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+8.0.0 28-12-2019 04:20:02 Starting new session. Mods: examplemod 
+8.0.0 28-12-2019 04:22:48 MAJOR: null: Loading language: en_us
+8.0.0 28-12-2019 04:22:48 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1: farmbyzantine
+8.0.0 28-12-2019 04:22:48 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1: vineyardbyzantine
+8.0.0 28-12-2019 04:22:48 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue goodharvest1: tavernbyzantine
+8.0.0 28-12-2019 04:22:48 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1withtavern: farmbyzantine
+8.0.0 28-12-2019 04:22:48 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1withtavern: vineyardbyzantine
+8.0.0 28-12-2019 04:22:48 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1withtavern: tavernbyzantine
+8.0.0 28-12-2019 04:22:48 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue cider: tavernbyzantine
+8.0.0 28-12-2019 04:22:48 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue boyvillagechief: vtype:baron_byzantine-centurio_byzantine-patriarch_byzantine
+8.0.0 28-12-2019 04:22:48 ERROR: Culture: byzantines: pt_br: Trying to register two dialogues with the same key: chatter9
+8.0.0 28-12-2019 04:22:48 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue talking2: notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine
+8.0.0 28-12-2019 04:22:48 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue talking2: notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine
+8.0.0 28-12-2019 04:22:48 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue talking5: notvtype:pastor_byzantine-patriarch_byzantine-armysmith_byzantine-baron_byzantine
+8.0.0 28-12-2019 04:22:48 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious1: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 28-12-2019 04:22:48 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious2: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 28-12-2019 04:22:48 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious3: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 28-12-2019 04:22:48 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious4: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 28-12-2019 04:22:48 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue ticlon: notvtype:pastor_byzantine-patriarch_byzantine
+8.0.0 28-12-2019 04:22:48 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue nobakery: farmbyzantine
+8.0.0 28-12-2019 04:22:48 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue nobakery: bakerybyzantine
+8.0.0 28-12-2019 04:22:48 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue notavern: tavernbyzantine
+8.0.0 28-12-2019 04:22:48 ERROR: Culture: byzantines: pt_br: Trying to register two dialogues with the same key: sun
+8.0.0 28-12-2019 04:22:48 ERROR: Culture: byzantines: th: In dialogue file C:\Users\mrpli\Twitch\Minecraft\Instances\Minelure Pack\mods\millenaire\languages\th\byzantines_dialogues.txt the following line is invalid: v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / It is always a pleasure to see our nice little village, isn't it?
+8.0.0 28-12-2019 04:22:48 ERROR: Culture: byzantines: th: In dialogue file C:\Users\mrpli\Twitch\Minecraft\Instances\Minelure Pack\mods\millenaire\languages\th\byzantines_dialogues.txt the following line is invalid: ????????????????????????????????????????????
+8.0.0 28-12-2019 04:22:48 ERROR: Culture: byzantines: th: In dialogue file C:\Users\mrpli\Twitch\Minecraft\Instances\Minelure Pack\mods\millenaire\languages\th\byzantines_dialogues.txt dialogue nothomeyet has no sentences.
+8.0.0 28-12-2019 04:22:49 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+8.0.0 28-12-2019 04:43:13 Starting new session. Mods: examplemod 
+8.0.0 28-12-2019 04:45:55 MAJOR: null: Loading language: en_us
+8.0.0 28-12-2019 04:45:55 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1: farmbyzantine
+8.0.0 28-12-2019 04:45:55 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1: vineyardbyzantine
+8.0.0 28-12-2019 04:45:55 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue goodharvest1: tavernbyzantine
+8.0.0 28-12-2019 04:45:55 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1withtavern: farmbyzantine
+8.0.0 28-12-2019 04:45:55 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1withtavern: vineyardbyzantine
+8.0.0 28-12-2019 04:45:55 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1withtavern: tavernbyzantine
+8.0.0 28-12-2019 04:45:55 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue cider: tavernbyzantine
+8.0.0 28-12-2019 04:45:55 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue boyvillagechief: vtype:baron_byzantine-centurio_byzantine-patriarch_byzantine
+8.0.0 28-12-2019 04:45:55 ERROR: Culture: byzantines: pt_br: Trying to register two dialogues with the same key: chatter9
+8.0.0 28-12-2019 04:45:55 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue talking2: notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine
+8.0.0 28-12-2019 04:45:55 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue talking2: notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine
+8.0.0 28-12-2019 04:45:55 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue talking5: notvtype:pastor_byzantine-patriarch_byzantine-armysmith_byzantine-baron_byzantine
+8.0.0 28-12-2019 04:45:55 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious1: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 28-12-2019 04:45:55 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious2: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 28-12-2019 04:45:55 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious3: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 28-12-2019 04:45:55 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious4: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 28-12-2019 04:45:55 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue ticlon: notvtype:pastor_byzantine-patriarch_byzantine
+8.0.0 28-12-2019 04:45:55 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue nobakery: farmbyzantine
+8.0.0 28-12-2019 04:45:55 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue nobakery: bakerybyzantine
+8.0.0 28-12-2019 04:45:55 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue notavern: tavernbyzantine
+8.0.0 28-12-2019 04:45:55 ERROR: Culture: byzantines: pt_br: Trying to register two dialogues with the same key: sun
+8.0.0 28-12-2019 04:45:55 ERROR: Culture: byzantines: th: In dialogue file C:\Users\mrpli\Twitch\Minecraft\Instances\Minelure Pack\mods\millenaire\languages\th\byzantines_dialogues.txt the following line is invalid: v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / It is always a pleasure to see our nice little village, isn't it?
+8.0.0 28-12-2019 04:45:55 ERROR: Culture: byzantines: th: In dialogue file C:\Users\mrpli\Twitch\Minecraft\Instances\Minelure Pack\mods\millenaire\languages\th\byzantines_dialogues.txt the following line is invalid: ????????????????????????????????????????????
+8.0.0 28-12-2019 04:45:55 ERROR: Culture: byzantines: th: In dialogue file C:\Users\mrpli\Twitch\Minecraft\Instances\Minelure Pack\mods\millenaire\languages\th\byzantines_dialogues.txt dialogue nothomeyet has no sentences.
+8.0.0 28-12-2019 04:45:56 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+8.0.0 28-12-2019 05:04:24 Starting new session. Mods: examplemod 
+8.0.0 28-12-2019 05:07:14 MAJOR: null: Loading language: en_us
+8.0.0 28-12-2019 05:07:14 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1: farmbyzantine
+8.0.0 28-12-2019 05:07:14 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1: vineyardbyzantine
+8.0.0 28-12-2019 05:07:14 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue goodharvest1: tavernbyzantine
+8.0.0 28-12-2019 05:07:14 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1withtavern: farmbyzantine
+8.0.0 28-12-2019 05:07:14 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1withtavern: vineyardbyzantine
+8.0.0 28-12-2019 05:07:14 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1withtavern: tavernbyzantine
+8.0.0 28-12-2019 05:07:14 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue cider: tavernbyzantine
+8.0.0 28-12-2019 05:07:14 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue boyvillagechief: vtype:baron_byzantine-centurio_byzantine-patriarch_byzantine
+8.0.0 28-12-2019 05:07:14 ERROR: Culture: byzantines: pt_br: Trying to register two dialogues with the same key: chatter9
+8.0.0 28-12-2019 05:07:14 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue talking2: notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine
+8.0.0 28-12-2019 05:07:14 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue talking2: notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine
+8.0.0 28-12-2019 05:07:14 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue talking5: notvtype:pastor_byzantine-patriarch_byzantine-armysmith_byzantine-baron_byzantine
+8.0.0 28-12-2019 05:07:14 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious1: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 28-12-2019 05:07:14 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious2: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 28-12-2019 05:07:14 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious3: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 28-12-2019 05:07:14 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious4: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 28-12-2019 05:07:14 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue ticlon: notvtype:pastor_byzantine-patriarch_byzantine
+8.0.0 28-12-2019 05:07:14 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue nobakery: farmbyzantine
+8.0.0 28-12-2019 05:07:14 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue nobakery: bakerybyzantine
+8.0.0 28-12-2019 05:07:14 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue notavern: tavernbyzantine
+8.0.0 28-12-2019 05:07:14 ERROR: Culture: byzantines: pt_br: Trying to register two dialogues with the same key: sun
+8.0.0 28-12-2019 05:07:14 ERROR: Culture: byzantines: th: In dialogue file C:\Users\mrpli\Twitch\Minecraft\Instances\Minelure Pack\mods\millenaire\languages\th\byzantines_dialogues.txt the following line is invalid: v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / It is always a pleasure to see our nice little village, isn't it?
+8.0.0 28-12-2019 05:07:14 ERROR: Culture: byzantines: th: In dialogue file C:\Users\mrpli\Twitch\Minecraft\Instances\Minelure Pack\mods\millenaire\languages\th\byzantines_dialogues.txt the following line is invalid: ????????????????????????????????????????????
+8.0.0 28-12-2019 05:07:14 ERROR: Culture: byzantines: th: In dialogue file C:\Users\mrpli\Twitch\Minecraft\Instances\Minelure Pack\mods\millenaire\languages\th\byzantines_dialogues.txt dialogue nothomeyet has no sentences.
+8.0.0 28-12-2019 05:07:14 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+8.0.0 28-12-2019 15:01:05 Starting new session. Mods: examplemod 
+8.0.0 28-12-2019 15:07:56 MAJOR: null: Loading language: en_us
+8.0.0 28-12-2019 15:07:57 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1: farmbyzantine
+8.0.0 28-12-2019 15:07:57 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1: vineyardbyzantine
+8.0.0 28-12-2019 15:07:57 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue goodharvest1: tavernbyzantine
+8.0.0 28-12-2019 15:07:57 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1withtavern: farmbyzantine
+8.0.0 28-12-2019 15:07:57 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1withtavern: vineyardbyzantine
+8.0.0 28-12-2019 15:07:57 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1withtavern: tavernbyzantine
+8.0.0 28-12-2019 15:07:57 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue cider: tavernbyzantine
+8.0.0 28-12-2019 15:07:57 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue boyvillagechief: vtype:baron_byzantine-centurio_byzantine-patriarch_byzantine
+8.0.0 28-12-2019 15:07:57 ERROR: Culture: byzantines: pt_br: Trying to register two dialogues with the same key: chatter9
+8.0.0 28-12-2019 15:07:57 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue talking2: notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine
+8.0.0 28-12-2019 15:07:57 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue talking2: notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine
+8.0.0 28-12-2019 15:07:57 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue talking5: notvtype:pastor_byzantine-patriarch_byzantine-armysmith_byzantine-baron_byzantine
+8.0.0 28-12-2019 15:07:57 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious1: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 28-12-2019 15:07:57 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious2: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 28-12-2019 15:07:57 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious3: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 28-12-2019 15:07:57 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious4: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 28-12-2019 15:07:57 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue ticlon: notvtype:pastor_byzantine-patriarch_byzantine
+8.0.0 28-12-2019 15:07:57 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue nobakery: farmbyzantine
+8.0.0 28-12-2019 15:07:57 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue nobakery: bakerybyzantine
+8.0.0 28-12-2019 15:07:57 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue notavern: tavernbyzantine
+8.0.0 28-12-2019 15:07:57 ERROR: Culture: byzantines: pt_br: Trying to register two dialogues with the same key: sun
+8.0.0 28-12-2019 15:07:57 ERROR: Culture: byzantines: th: In dialogue file C:\Users\D\Documents\MultiMC\instances\The_Pack-1.0.0\minecraft\mods\millenaire\languages\th\byzantines_dialogues.txt the following line is invalid: v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / It is always a pleasure to see our nice little village, isn't it?
+8.0.0 28-12-2019 15:07:57 ERROR: Culture: byzantines: th: In dialogue file C:\Users\D\Documents\MultiMC\instances\The_Pack-1.0.0\minecraft\mods\millenaire\languages\th\byzantines_dialogues.txt the following line is invalid: ????????????????????????????????????????????
+8.0.0 28-12-2019 15:07:57 ERROR: Culture: byzantines: th: In dialogue file C:\Users\D\Documents\MultiMC\instances\The_Pack-1.0.0\minecraft\mods\millenaire\languages\th\byzantines_dialogues.txt dialogue nothomeyet has no sentences.
+8.0.0 28-12-2019 15:07:58 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+8.0.0 31-12-2019 12:47:41 Starting new session. Mods: examplemod 
+8.0.0 31-12-2019 12:52:04 MAJOR: null: Loading language: en_us
+8.0.0 31-12-2019 12:52:05 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1: farmbyzantine
+8.0.0 31-12-2019 12:52:05 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1: vineyardbyzantine
+8.0.0 31-12-2019 12:52:05 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue goodharvest1: tavernbyzantine
+8.0.0 31-12-2019 12:52:05 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1withtavern: farmbyzantine
+8.0.0 31-12-2019 12:52:05 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1withtavern: vineyardbyzantine
+8.0.0 31-12-2019 12:52:05 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1withtavern: tavernbyzantine
+8.0.0 31-12-2019 12:52:05 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue cider: tavernbyzantine
+8.0.0 31-12-2019 12:52:05 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue boyvillagechief: vtype:baron_byzantine-centurio_byzantine-patriarch_byzantine
+8.0.0 31-12-2019 12:52:05 ERROR: Culture: byzantines: pt_br: Trying to register two dialogues with the same key: chatter9
+8.0.0 31-12-2019 12:52:05 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue talking2: notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine
+8.0.0 31-12-2019 12:52:05 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue talking2: notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine
+8.0.0 31-12-2019 12:52:05 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue talking5: notvtype:pastor_byzantine-patriarch_byzantine-armysmith_byzantine-baron_byzantine
+8.0.0 31-12-2019 12:52:05 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious1: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 31-12-2019 12:52:05 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious2: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 31-12-2019 12:52:05 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious3: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 31-12-2019 12:52:05 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious4: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 31-12-2019 12:52:05 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue ticlon: notvtype:pastor_byzantine-patriarch_byzantine
+8.0.0 31-12-2019 12:52:05 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue nobakery: farmbyzantine
+8.0.0 31-12-2019 12:52:05 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue nobakery: bakerybyzantine
+8.0.0 31-12-2019 12:52:05 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue notavern: tavernbyzantine
+8.0.0 31-12-2019 12:52:05 ERROR: Culture: byzantines: pt_br: Trying to register two dialogues with the same key: sun
+8.0.0 31-12-2019 12:52:05 ERROR: Culture: byzantines: th: In dialogue file C:\Users\Matthew\Twitch\Minecraft\Instances\ML-Pack\mods\millenaire\languages\th\byzantines_dialogues.txt the following line is invalid: v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / It is always a pleasure to see our nice little village, isn't it?
+8.0.0 31-12-2019 12:52:05 ERROR: Culture: byzantines: th: In dialogue file C:\Users\Matthew\Twitch\Minecraft\Instances\ML-Pack\mods\millenaire\languages\th\byzantines_dialogues.txt the following line is invalid: ????????????????????????????????????????????
+8.0.0 31-12-2019 12:52:05 ERROR: Culture: byzantines: th: In dialogue file C:\Users\Matthew\Twitch\Minecraft\Instances\ML-Pack\mods\millenaire\languages\th\byzantines_dialogues.txt dialogue nothomeyet has no sentences.
+8.0.0 31-12-2019 12:52:08 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+8.0.0 31-12-2019 17:53:32 Starting new session. Mods: examplemod 
+8.0.0 31-12-2019 18:04:25 Starting new session. Mods: examplemod 
+8.0.0 31-12-2019 18:08:39 MAJOR: null: Loading language: en_us
+8.0.0 31-12-2019 18:08:39 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1: farmbyzantine
+8.0.0 31-12-2019 18:08:39 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1: vineyardbyzantine
+8.0.0 31-12-2019 18:08:39 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue goodharvest1: tavernbyzantine
+8.0.0 31-12-2019 18:08:39 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1withtavern: farmbyzantine
+8.0.0 31-12-2019 18:08:39 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1withtavern: vineyardbyzantine
+8.0.0 31-12-2019 18:08:39 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1withtavern: tavernbyzantine
+8.0.0 31-12-2019 18:08:39 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue cider: tavernbyzantine
+8.0.0 31-12-2019 18:08:39 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue boyvillagechief: vtype:baron_byzantine-centurio_byzantine-patriarch_byzantine
+8.0.0 31-12-2019 18:08:39 ERROR: Culture: byzantines: pt_br: Trying to register two dialogues with the same key: chatter9
+8.0.0 31-12-2019 18:08:39 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue talking2: notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine
+8.0.0 31-12-2019 18:08:39 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue talking2: notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine
+8.0.0 31-12-2019 18:08:39 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue talking5: notvtype:pastor_byzantine-patriarch_byzantine-armysmith_byzantine-baron_byzantine
+8.0.0 31-12-2019 18:08:39 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious1: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 31-12-2019 18:08:39 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious2: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 31-12-2019 18:08:39 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious3: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 31-12-2019 18:08:39 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious4: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 31-12-2019 18:08:39 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue ticlon: notvtype:pastor_byzantine-patriarch_byzantine
+8.0.0 31-12-2019 18:08:39 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue nobakery: farmbyzantine
+8.0.0 31-12-2019 18:08:39 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue nobakery: bakerybyzantine
+8.0.0 31-12-2019 18:08:39 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue notavern: tavernbyzantine
+8.0.0 31-12-2019 18:08:39 ERROR: Culture: byzantines: pt_br: Trying to register two dialogues with the same key: sun
+8.0.0 31-12-2019 18:08:39 ERROR: Culture: byzantines: th: In dialogue file C:\Users\Matthew\Twitch\Minecraft\Instances\ML-Pack\mods\millenaire\languages\th\byzantines_dialogues.txt the following line is invalid: v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / It is always a pleasure to see our nice little village, isn't it?
+8.0.0 31-12-2019 18:08:39 ERROR: Culture: byzantines: th: In dialogue file C:\Users\Matthew\Twitch\Minecraft\Instances\ML-Pack\mods\millenaire\languages\th\byzantines_dialogues.txt the following line is invalid: ????????????????????????????????????????????
+8.0.0 31-12-2019 18:08:39 ERROR: Culture: byzantines: th: In dialogue file C:\Users\Matthew\Twitch\Minecraft\Instances\ML-Pack\mods\millenaire\languages\th\byzantines_dialogues.txt dialogue nothomeyet has no sentences.
+8.0.0 31-12-2019 18:08:40 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning
+8.0.0 01-01-2020 11:10:56 Starting new session. Mods: examplemod 
+8.0.0 01-01-2020 11:15:18 MAJOR: null: Loading language: en_us
+8.0.0 01-01-2020 11:15:19 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1: farmbyzantine
+8.0.0 01-01-2020 11:15:19 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1: vineyardbyzantine
+8.0.0 01-01-2020 11:15:19 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue goodharvest1: tavernbyzantine
+8.0.0 01-01-2020 11:15:19 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1withtavern: farmbyzantine
+8.0.0 01-01-2020 11:15:19 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1withtavern: vineyardbyzantine
+8.0.0 01-01-2020 11:15:19 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue goodharvest1withtavern: tavernbyzantine
+8.0.0 01-01-2020 11:15:19 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue cider: tavernbyzantine
+8.0.0 01-01-2020 11:15:19 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue boyvillagechief: vtype:baron_byzantine-centurio_byzantine-patriarch_byzantine
+8.0.0 01-01-2020 11:15:19 ERROR: Culture: byzantines: pt_br: Trying to register two dialogues with the same key: chatter9
+8.0.0 01-01-2020 11:15:19 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue talking2: notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine
+8.0.0 01-01-2020 11:15:19 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue talking2: notvtype:artisan_byzantine-pastor_byzantine-patriarch_byzantine
+8.0.0 01-01-2020 11:15:19 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue talking5: notvtype:pastor_byzantine-patriarch_byzantine-armysmith_byzantine-baron_byzantine
+8.0.0 01-01-2020 11:15:19 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious1: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 01-01-2020 11:15:19 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious2: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 01-01-2020 11:15:19 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious3: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 01-01-2020 11:15:19 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue religious4: vtype:patriarch_byzantine-pastor_byzantine
+8.0.0 01-01-2020 11:15:19 ERROR: Culture: byzantines: pt_br: Unknown villager type in dialogue ticlon: notvtype:pastor_byzantine-patriarch_byzantine
+8.0.0 01-01-2020 11:15:19 ERROR: Culture: byzantines: pt_br: Unknown building in dialogue nobakery: farmbyzantine
+8.0.0 01-01-2020 11:15:19 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue nobakery: bakerybyzantine
+8.0.0 01-01-2020 11:15:19 ERROR: Culture: byzantines: pt_br: Unknown notbuilding in dialogue notavern: tavernbyzantine
+8.0.0 01-01-2020 11:15:19 ERROR: Culture: byzantines: pt_br: Trying to register two dialogues with the same key: sun
+8.0.0 01-01-2020 11:15:19 ERROR: Culture: byzantines: th: In dialogue file C:\Users\Matthew\Twitch\Minecraft\Instances\ML-Pack\mods\millenaire\languages\th\byzantines_dialogues.txt the following line is invalid: v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / v1;0;Eínai pánta mia efcharístisi na doúme oraío chorió mas, étsi den eínai? / It is always a pleasure to see our nice little village, isn't it?
+8.0.0 01-01-2020 11:15:19 ERROR: Culture: byzantines: th: In dialogue file C:\Users\Matthew\Twitch\Minecraft\Instances\ML-Pack\mods\millenaire\languages\th\byzantines_dialogues.txt the following line is invalid: ????????????????????????????????????????????
+8.0.0 01-01-2020 11:15:19 ERROR: Culture: byzantines: th: In dialogue file C:\Users\Matthew\Twitch\Minecraft\Instances\ML-Pack\mods\millenaire\languages\th\byzantines_dialogues.txt dialogue nothomeyet has no sentences.
+8.0.0 01-01-2020 11:15:23 MAJOR: null: LanguageData loaded: en_us. Wand invitem name: Wand of Summoning

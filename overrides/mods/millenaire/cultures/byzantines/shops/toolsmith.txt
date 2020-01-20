@@ -1,0 +1,4 @@
+sells=steelAxe,steelPickaxe,steelShovel,steelHoe,stoneAxe,stonePickaxe,stoneShovel,stoneHoe
+
+buys=iron,cobblestone
+
