@@ -1,0 +1,1 @@
+native:Parekklesi;gameNameKey:chapel_A0;tag:Praying;sign:1

@@ -1,0 +1,74 @@
+native_name=Technitria
+gender=female
+familyNameList=greek_family_names
+firstNameList=greek_women_names
+baseheight=0.95
+health=20
+malechild=boy_byzantine
+femalechild=girl_byzantine
+tag=seller
+icon=souvlaki
+
+model=femaleasymmetrical
+
+texture=textures/entity/byzanz/female/byz.female.A.png
+texture=textures/entity/byzanz/female/byz.female.B.png
+texture=textures/entity/byzanz/female/byz.female.C.png
+texture=textures/entity/byzanz/female/byz.female.D.png
+texture=textures/entity/byzanz/female/byz.female.E.png
+texture=textures/entity/byzanz/female/byz.female.F.png
+texture=textures/entity/byzanz/female/byz.female.G.png
+texture=textures/entity/byzanz/female/byz.female.H.png
+texture=textures/entity/byzanz/female/byz.female.I.png
+texture=textures/entity/byzanz/female/byz.female.J.png
+texture=textures/entity/byzanz/female/byz.female.K.png
+texture=textures/entity/byzanz/female/byz.female.L.png
+texture=textures/entity/byzanz/female/byz.female.M.png
+texture=textures/entity/byzanz/female/byz.female.N.png
+
+clothes=free,textures/entity/byzanz/female/clothes/byz.defaultwife.1.A.png
+clothes=free,textures/entity/byzanz/female/clothes/byz.defaultwife.1.B.png
+clothes=free,textures/entity/byzanz/female/clothes/byz.defaultwife.1.C.png
+clothes=free,textures/entity/byzanz/female/clothes/byz.defaultwife.1.D.png
+clothes=free,textures/entity/byzanz/female/clothes/byz.defaultwife.1.E.png
+
+clothes=clothes_byz_wool,textures/entity/byzanz/female/clothes/byz.defaultwife.2.A.png
+clothes=clothes_byz_wool,textures/entity/byzanz/female/clothes/byz.defaultwife.2.B.png
+clothes=clothes_byz_wool,textures/entity/byzanz/female/clothes/byz.defaultwife.2.C.png
+clothes=clothes_byz_wool,textures/entity/byzanz/female/clothes/byz.defaultwife.2.D.png
+
+itemNeeded=clothes_byz_wool
+
+//leisure goals
+goal=gorest
+goal=gosocialise
+goal=chat
+goal=gopray
+goal=listentospeech2
+
+//household goals
+goal=deliverResourcesShop
+goal=GetHouseTHResources
+goal=getGoodsHousehold
+goal=deliverGoodsHousehold
+
+//sandstone production
+// MC + -
+//goal=makesandstone
+//requiredGood=sand,256
+goal=makesandstoneworkshop
+goal=fetchsandstonebyz
+
+//banner production
+goal=makebannerwool
+requiredGood=wool_white,32
+
+//iron production
+// MC + -
+//goal=makeironbyz
+//requiredGood=ironnugget,45
+goal=makeironbyzworkshop
+goal=fetchironbyz
+
+baseAttackStrength=2
+defaultweapon=woodaxe

@@ -1,0 +1,114 @@
+native_name=Gynaika
+gender=female
+familyNameList=greek_family_names
+firstNameList=greek_women_names
+baseheight=0.99
+health=20
+malechild=boy_byzantine
+femalechild=girl_byzantine
+tag=seller
+icon=souvlaki
+
+model=femaleasymmetrical
+
+texture=textures/entity/byzanz/female/byz.female.A.png
+texture=textures/entity/byzanz/female/byz.female.B.png
+texture=textures/entity/byzanz/female/byz.female.C.png
+texture=textures/entity/byzanz/female/byz.female.D.png
+texture=textures/entity/byzanz/female/byz.female.E.png
+texture=textures/entity/byzanz/female/byz.female.F.png
+texture=textures/entity/byzanz/female/byz.female.G.png
+texture=textures/entity/byzanz/female/byz.female.H.png
+texture=textures/entity/byzanz/female/byz.female.I.png
+texture=textures/entity/byzanz/female/byz.female.J.png
+texture=textures/entity/byzanz/female/byz.female.K.png
+texture=textures/entity/byzanz/female/byz.female.L.png
+texture=textures/entity/byzanz/female/byz.female.M.png
+texture=textures/entity/byzanz/female/byz.female.N.png
+
+clothes=free,textures/entity/byzanz/female/clothes/byz.defaultwife.1.A.png
+clothes=free,textures/entity/byzanz/female/clothes/byz.defaultwife.1.B.png
+clothes=free,textures/entity/byzanz/female/clothes/byz.defaultwife.1.C.png
+clothes=free,textures/entity/byzanz/female/clothes/byz.defaultwife.1.D.png
+clothes=free,textures/entity/byzanz/female/clothes/byz.defaultwife.1.E.png
+
+clothes=clothes_byz_wool,textures/entity/byzanz/female/clothes/byz.defaultwife.2.A.png
+clothes=clothes_byz_wool,textures/entity/byzanz/female/clothes/byz.defaultwife.2.B.png
+clothes=clothes_byz_wool,textures/entity/byzanz/female/clothes/byz.defaultwife.2.C.png
+clothes=clothes_byz_wool,textures/entity/byzanz/female/clothes/byz.defaultwife.2.D.png
+
+itemNeeded=clothes_byz_wool
+
+//leisure goals
+goal=gorest
+goal=gosocialise
+goal=chat
+goal=gopray
+goal=listentospeech2
+
+//household goals
+goal=deliverResourcesShop
+goal=GetHouseTHResources
+goal=getGoodsHousehold
+goal=deliverGoodsHousehold
+
+//village production
+goal=makedirtwallbyz
+goal=makepathslabsbyz
+goal=makepathgravelbyz
+goal=makepathsandstonebyz
+goal=makestrawbedbyz
+goal=buildpath
+goal=clearoldpath
+
+//sand pit goals
+goal=gathergravel
+goal=gatherclay
+goal=gathersand
+toolneededclass=shovels
+
+//grapes
+goal=plantvines
+goal=harvestvines
+bringBackHomeGood=grapes
+
+//make bread
+goal=makeBread
+// mc +
+goal=fetchbreadbyz
+
+// workshop gaols
+// mc +
+goal=fetchironbyz
+goal=fetchsandstonebyz
+
+//sheepfarm functionality
+goal=shearsheep
+collectGood=wool_white
+collectGood=wool_gray
+collectGood=wool_lightgray
+collectGood=wool_black
+collectGood=wool_brown
+collectGood=wool_pink
+bringBackHomeGood=wool_white
+bringBackHomeGood=wool_gray
+bringBackHomeGood=wool_lightgray
+bringBackHomeGood=wool_black
+bringBackHomeGood=wool_brown
+bringBackHomeGood=wool_pink
+
+//fishfarm goals
+goal=gathersnails
+bringBackHomeGood=dye_purple
+
+//olives
+goal=gatherolives
+goal=makeoliveoil
+goal=plantsaplingolivetree
+bringBackHomeGood=olives
+startingInv=sapling_olivetree,10
+
+baseAttackStrength=2
+defaultweapon=woodaxe
+
+
