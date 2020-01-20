@@ -89,3 +89,27 @@ gear_osmiridium.register();
 var rod_osmiridium = VanillaFactory.createItem("rod_osmiridium");
 
 rod_osmiridium.register();
+
+//circuits
+
+var basic_primitive = VanillaFactory.createItem("basic_prim_circuit");
+basic_primitive.register();
+
+var basic_macro = VanillaFactory.createItem("basic_macro_circuit");
+basic_macro.register();
+
+var basic_electronic = VanillaFactory.createItem("basic_electronic_circuit");
+basic_electronic.register();
+
+
+var advanced_primitive = VanillaFactory.createItem("advanced_prim_circuit");
+advanced_primitive.register();
+
+var advanced_macro = VanillaFactory.createItem("advanced_macro_circuit");
+advanced_macro.register();
+
+var advanced_electronic = VanillaFactory.createItem("advanced_electronic_circuit");
+advanced_electronic.register();
+
+var advanced_silicon = VanillaFactory.createItem("advanced_silicon_circuit");
+advanced_silicon.register();
